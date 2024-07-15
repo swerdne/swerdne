@@ -1,16 +1,19 @@
-## Hi there 👋
+###Swerdne<br/>
+Estudante de ciencia da computação| UVV Vila Velha| 
 
-<!--
-**swerdne/swerdne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Swerdne](https://github-readme-stats.vercel.app/api?username=swerdne&show_icons=true&theme=tokyonight) <br/>
+![Swerdne](https://github-readme-stats.vercel.app/api/top-langs/?username=swerdne&theme=blue-green)
+
+ <div style="display: inline-block">
+ <img alt="Android" src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white" />
+     <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+     <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-683D87.svg?style=for-the-badge&logo=Bitrise&logoColor=white" />
+ <img alt="Apollo"src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" />
+   <img alt="Github"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   <img alt="Firebase"src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+
+</div>
